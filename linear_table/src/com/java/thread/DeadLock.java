@@ -16,6 +16,7 @@ public class DeadLock {
         thread4.start();
 
         System.out.println("结束运行");
+        System.out.println("HelloWorld");
     }
 }
 
