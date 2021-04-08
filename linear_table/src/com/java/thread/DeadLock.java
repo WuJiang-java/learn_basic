@@ -15,7 +15,7 @@ public class DeadLock {
         thread3.start();
         thread4.start();
 
-        System.out.println("结束运行");
+        System.out.println("结束运行，又被我改了，看看怎么解决冲突");
         System.out.println("HelloWorld");
     }
 }
