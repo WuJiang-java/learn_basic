@@ -8,6 +8,7 @@ public class ThreadPool {
     public static void main(String[] args) {
         ExecutorService service= Executors.newFixedThreadPool(2);
         MyRunnable r=new MyRunnable();
+        System.out.println("hello");
         service.submit(r);
         service.submit(r);
         service.submit(r);
