@@ -2,6 +2,9 @@ package com.java.thread;
 
 import com.java.test.Test;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class DeadLock {
     public static void main(String[] args) {
         System.out.println("公元1954年");
