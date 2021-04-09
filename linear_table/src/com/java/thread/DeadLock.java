@@ -16,6 +16,7 @@ public class DeadLock {
         thread4.start();
 
         System.out.println("结束运行，又被我改了，看看怎么解决冲突");
+        List<String> list=new ArrayList();
         System.out.println("HelloWorld");
     }
 }
