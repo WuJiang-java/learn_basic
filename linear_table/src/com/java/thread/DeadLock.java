@@ -16,6 +16,7 @@ public class DeadLock {
         thread4.start();
 
         System.out.println("结束运行，又被我改了，看看怎么解决冲突");
+        System.out.println("输出一个字符串");
         System.out.println("HelloWorld");
     }
 }
