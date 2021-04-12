@@ -5,6 +5,7 @@ package com.java.thread01;
  */
 public class Singleton {
 
+    //volatile是线程同步的轻量级实现，性能比synchronized快，但是只能用于修饰变量
     private volatile static Singleton uniqueInstance;
 
     public Singleton() {
