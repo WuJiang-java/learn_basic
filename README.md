@@ -21,6 +21,12 @@
 
 - [ ] [第一模块](https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=504458938&idx=1&sn=37f6f80073a4a50838e8697e5dcf7275&chksm=0d0f01f43a7888e2ae2f67c884664482c8fb5fc930cfa188e39346eda7c51a983bb7f4deb1f6#rd):完成时间:4月29号 :heart:
 
+
+
+Important：
+
+- ​	String声明的是不可变的对象，每次操作都会生成新的对象，然后将指针指向String新对象。StringBuilder和StringBuffer是在原有对象的基础上进行操作的。
+
 **Result：**
 
 ------
