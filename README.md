@@ -21,11 +21,18 @@
 
 - [ ] [第一模块](https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=504458938&idx=1&sn=37f6f80073a4a50838e8697e5dcf7275&chksm=0d0f01f43a7888e2ae2f67c884664482c8fb5fc930cfa188e39346eda7c51a983bb7f4deb1f6#rd):完成时间:4月29号 :heart:
 
+- [x] mysql安装(Data目录放在了C盘下)
 
 
 Important：
 
 - ​	String声明的是不可变的对象，每次操作都会生成新的对象，然后将指针指向String新对象。StringBuilder和StringBuffer是在原有对象的基础上进行操作的。
+
+- BIO：同步阻塞IO，平常使用的传统IO，模式简单使用方便，并发处理能力低。
+
+  NIO：同步非阻塞IO，是传统IO的升级，客户端和服务器端通过channel（通道）进行通讯，实现多路复用。
+
+  AIO：异步非阻塞IO，NIO的升级，异步IO的操作基于事件和回调机制。
 
 **Result：**
 
@@ -40,11 +47,11 @@ Important：
 
 任务列表：
 
-- [ ] 熟悉架构，环境和项目；及时**查看编码文档**
+- [x] 熟悉架构，环境和项目；及时**查看编码文档**
 - [x] 样板工程代码编写
 - [x] 参考利率参考指数需求分析
 - [x] 参考利率参考指数代码编写
-- [ ] 整理总结
+- [x] 整理总结
 
 #### 开发规范
 
