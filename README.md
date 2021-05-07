@@ -19,8 +19,8 @@
 
 任务列表：
 
-- [ ] [第一模块](https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=504458938&idx=1&sn=37f6f80073a4a50838e8697e5dcf7275&chksm=0d0f01f43a7888e2ae2f67c884664482c8fb5fc930cfa188e39346eda7c51a983bb7f4deb1f6#rd):完成时间:4月29号 :heart:
-
+- [x] [第一模块](https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=504458938&idx=1&sn=37f6f80073a4a50838e8697e5dcf7275&chksm=0d0f01f43a7888e2ae2f67c884664482c8fb5fc930cfa188e39346eda7c51a983bb7f4deb1f6#rd):计划完成时间:4月29号 :heart:实际完成时间:4月28号
+- [ ] [第二模块]([Java 最常见的 208 道面试题：第二模块答案 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIwMTY0NDU3Nw==&mid=504458946&idx=1&sn=536fb5dfff90c8ef49f2f56dfba75aa8&chksm=0d0f018c3a78889a20056ef4c0a4c85fd22d149b3419ec4f63f843dd1b21e3ed322f2c3257b6#rd)):计划完成时间:5月7号:walking:
 - [x] mysql安装(Data目录放在了C盘下)
 
 
@@ -40,7 +40,7 @@ Important：
   - volatile保证了其他线程的立即可见性，就不能保证原子性。
   - 有些时候对volatile进行操作不会被保存，说明不会造成阻塞。不可用于多线程环境下的计数器
   
-- & 运算
+- & 运算 |运算
 
 - request对象：客户端的请求信息被封装在request对象中，通过它能了解到客户端的需求，然后做出响应。
 
@@ -54,6 +54,8 @@ Important：
   4. 父类构造方法
   5. 子类普通代码块
   6. 子类构造方法
+
+- 
 
 **Result：**
 
