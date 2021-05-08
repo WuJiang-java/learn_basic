@@ -1,6 +1,6 @@
 package com.java.leetcode;
 
-class Solution {
+class JudgeSquareSum {
     public boolean judgeSquareSum(int c) {
 
         for(long i=0;i*i<=c;i++){
@@ -14,7 +14,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution s=new Solution();
+        JudgeSquareSum s=new JudgeSquareSum();
         boolean b = s.judgeSquareSum(11);
         System.out.println(b);
     }
