@@ -1,4 +1,4 @@
-package com.java.leetcode;
+package com.java.leetcode.simple;
 
 /**
  * 给你两个整数，n 和 start 。

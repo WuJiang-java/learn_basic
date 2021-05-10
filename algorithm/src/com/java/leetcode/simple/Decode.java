@@ -1,4 +1,4 @@
-package com.java.leetcode;
+package com.java.leetcode.simple;
 
 /**
  * 未知 整数数组 arr 由 n 个非负整数组成。

@@ -1,4 +1,4 @@
-package com.java.leetcode;
+package com.java.leetcode.simple;
 
 public class RunningSum {
 

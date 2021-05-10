@@ -1,4 +1,4 @@
-package com.java.leetcode;
+package com.java.leetcode.medium;
 
 class JudgeSquareSum {
     public boolean judgeSquareSum(int c) {
@@ -14,6 +14,7 @@ class JudgeSquareSum {
     }
 
     public static void main(String[] args) {
+
         JudgeSquareSum s=new JudgeSquareSum();
         boolean b = s.judgeSquareSum(11);
         System.out.println(b);

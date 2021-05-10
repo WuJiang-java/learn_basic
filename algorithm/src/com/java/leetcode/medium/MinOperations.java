@@ -1,4 +1,4 @@
-package com.java.leetcode;
+package com.java.leetcode.medium;
 
 /**
  * 给你两个长度可能不等的整数数组nums1 和nums2。两个数组中的所有值都在1到6之间（包含1和6）。

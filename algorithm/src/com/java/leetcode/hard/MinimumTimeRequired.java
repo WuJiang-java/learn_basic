@@ -1,4 +1,4 @@
-package com.java.leetcode;
+package com.java.leetcode.hard;
 
 /**
  * 给你一个整数数组 jobs ，其中 jobs[i] 是完成第 i 项工作要花费的时间。
