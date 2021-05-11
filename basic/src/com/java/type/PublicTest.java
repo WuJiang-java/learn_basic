@@ -4,6 +4,6 @@ public class PublicTest {
 
     public int i;
     public static void main(String[] args) {
-
+        //i=1;
     }
 }
