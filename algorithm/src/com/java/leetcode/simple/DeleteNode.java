@@ -18,6 +18,24 @@ public class DeleteNode {
         node.val=node.next.val;
         node.next=node.next.next;
     }
+
+    public ListNode deleteNode(ListNode head, int val) {
+
+        ListNode pre=new ListNode(0),first=head;
+        pre.next=head;
+
+        while(first!=null){
+            if(first.val==val){
+                first=first.next;
+                pre.next=first;
+            }else{
+                pre=pre.next;
+                first=first.next;
+            }
+        }
+
+        return head;
+    }
 }
 
 class ListNode {
