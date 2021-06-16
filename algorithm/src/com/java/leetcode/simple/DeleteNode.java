@@ -7,9 +7,6 @@ package com.java.leetcode.simple;
  *
  * 例如，传入节点c（位于单向链表a->b->c->d->e->f中），将其删除后，剩余链表为a->b->d->e->f
  *
- * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/delete-middle-node-lcci
- * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 public class DeleteNode {
 
