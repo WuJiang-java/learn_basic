@@ -1,5 +1,8 @@
 package com.java.type;
 
+/**
+ * gitee提交
+ */
 public class ByteTest {
     public static void main(String[] args) {
         byte a=7;
